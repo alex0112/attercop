@@ -1,9 +1,6 @@
 # Attercop
 
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-
 Attercop is an experimental Elixir-based GraphQL penetration testing and attack surface discovery tool that scans and identifies public GraphQL endpoints.
-
 Inspiration for architecture and use was drawn from other tools such as [Nmap](https://nmap.org/) and [Metasploit](https://www.metasploit.com/).
 
 ## Screenshots
